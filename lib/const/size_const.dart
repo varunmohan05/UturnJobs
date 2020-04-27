@@ -1,0 +1,2 @@
+const TEXT_NORMAL_SIZE = 14.0;
+const TEXT_SMALL_SIZE = 12.0;
